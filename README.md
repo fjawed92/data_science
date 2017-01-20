@@ -3,3 +3,5 @@
 
 
 Want to check if this is working.
+
+Learnt many different functions. I need to make sure I keep practicing.
